@@ -34,7 +34,7 @@ class Tanisha:
         self.cloud_tools = ["AWS (EC2, S3, IAM)", "Ollama", "Git", "VS Code", "PyCharm", "Linux"]
 
         self.achievements = [
-            "🏆 Smart India Hackathon 2023 — National Finalist (50,000+ participants)",
+            "🏆 Smart India Hackathon 2023 — National Finalist (500+ participants)",
             "⭐ HackerRank 5-Star — Python & C Programming",
             "🎯 AIR 917 — Coding Ninjas Competitive Programming Contest",
             "📡 IEEE Published — E-Bike performance research",
