@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Gupta&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Backend%20%7C%20Data%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+<h1>👩‍💻 Tanisha Gupta</h1>
+<p><em>Python Developer · AI & Backend · Data Engineering</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLM-powered+backend+systems+%F0%9F%A4%96;Flask+%7C+FastAPI+%7C+LangChain+%7C+REST+APIs+%F0%9F%90%8D;Turning+raw+data+into+reliable+pipelines+%F0%9F%93%8A;Smart+India+Hackathon+National+Finalist+%F0%9F%8F%86;Open+to+collaborate+on+AI+%26+backend+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+LLM-powered+backend+systems+%F0%9F%A4%96;Flask+%7C+FastAPI+%7C+LangChain+%7C+REST+APIs+%F0%9F%90%8D;Turning+raw+data+into+reliable+pipelines+%F0%9F%93%8A;Smart+India+Hackathon+National+Finalist+%F0%9F%8F%86;Open+to+collaborate+on+AI+%26+backend+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -155,8 +156,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajcstanu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -192,8 +193,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<br/><hr/>
 *"Every messy dataset has a beautiful story waiting to be told."*
 
 ⭐ **If you find my work helpful, consider starring a repo!** ⭐
