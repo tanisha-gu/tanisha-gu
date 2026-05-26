@@ -1,39 +1,47 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tanisha%20Gupta&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20AI%20Developer%20%7C%20LLM%20Apps%20%7C%20Backend%20Automation&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanisha%20Gupta&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Backend%20%7C%20Data%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+LLM-powered+backend+solutions+%F0%9F%A4%96;Python+%7C+Flask+%7C+LangChain+%7C+REST+APIs+%F0%9F%90%8D;Turning+messy+datasets+into+insights+%F0%9F%93%8A;Open+to+collaborate+on+AI+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+LLM-powered+backend+systems+%F0%9F%A4%96;Flask+%7C+FastAPI+%7C+LangChain+%7C+REST+APIs+%F0%9F%90%8D;Turning+raw+data+into+reliable+pipelines+%F0%9F%93%8A;Smart+India+Hackathon+National+Finalist+%F0%9F%8F%86;Open+to+collaborate+on+AI+%26+backend+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajcstanu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishagupta-g)
 [![Email](https://img.shields.io/badge/Email-tanishaguptacse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishaguptacse@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajcstanu)
 [![Profile Views](https://komarev.com/ghpvc/?username=ajcstanu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/ajcstanu)
 
 </div>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 ```python
 class Tanisha:
     def __init__(self):
         self.name        = "Tanisha Gupta"
-        self.role        = "Python AI Developer"
-        self.focus       = ["LLM Applications", "Backend Automation", "Data Analytics"]
-        self.languages   = ["Python", "SQL", "C/C++"]
-        self.frameworks  = ["Flask", "FastAPI", "LangChain"]
-        self.cloud       = ["AWS (EC2, S3, IAM — Basics)"]
-        self.currently   = "🎯 Building AI-powered backend automation tools"
-        self.fun_fact    = "Every messy dataset has a beautiful story waiting to be told 📊"
+        self.role        = "Backend Developer · Python AI Developer"
+        self.location    = "Noida, India"
+        self.currently   = "Backend Developer @ Movate Pvt. Ltd. (Telecom Domain)"
+        self.education   = "B.Tech CSE — RGPV Bhopal (CGPA: 8.48 / 10)"
+
+        self.languages   = ["Python", "SQL", "C/C++", "HTML/CSS"]
+        self.frameworks  = ["Flask", "FastAPI", "LangChain", "Selenium"]
+        self.data        = ["NumPy", "Pandas", "Power BI", "Power Query", "XML/CSV/Excel"]
+        self.databases   = ["MySQL"]
+        self.cloud_tools = ["AWS (EC2, S3, IAM)", "Ollama", "Git", "VS Code", "PyCharm", "Linux"]
+
+        self.achievements = [
+            "🏆 Smart India Hackathon 2023 — National Finalist (50,000+ participants)",
+            "⭐ HackerRank 5-Star — Python & C Programming",
+            "🎯 AIR 917 — Coding Ninjas Competitive Programming Contest",
+            "📡 IEEE Published — E-Bike performance research",
+            "💡 Patent Under Examination — IoT Smart Street Lighting (LoRaWAN)",
+        ]
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
+        print("Thanks for stopping by! Let's build something reliable 🚀")
 
 me = Tanisha()
 me.say_hi()
@@ -67,17 +75,11 @@ me.say_hi()
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Databases**
+**Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & Tools**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Data Visualization**
@@ -91,59 +93,82 @@ me.say_hi()
 
 ## 💼 Work Experience
 
-<table>
-<tr>
-<td width="60px" align="center">🔹</td>
-<td>
+### 🔹 Backend Developer — Movate Pvt. Ltd., Noida &nbsp;|&nbsp; *Sep 2025 – Present*
+> Telecom Domain · Python · NumPy · Pandas · XML · CSV · Excel
 
-**Python AI Developer Trainee** &nbsp;·&nbsp; *Sep 2025 – Present*
+- Developing and maintaining Python-based backend systems processing structured data (XML, CSV, Excel) for a large-scale telecom project
+- Automated log data validation pipelines → **25% improvement in data accuracy**, reduced rework incidents
+- Implemented structured logging & exception handling → **∼40% reduction in runtime failures**
+- Collaborating with cross-functional teams to design, test, and optimize backend software solutions
 
-- Improved workflow efficiency by **30%** via Python automation with SQL & REST APIs
-- Automated KPI and log data validation pipelines → data accuracy improved by **25%**
-- Reduced runtime failures by **40%** through structured logging & exception handling
-- Performed API integration, testing, and debugging for high-quality software delivery
+### 🔹 Data Science Intern — Remote &nbsp;|&nbsp; *Nov 2023 – Dec 2023*
+> ML · EDA · Feature Engineering · Classification
 
-</td>
-</tr>
-<tr>
-<td width="60px" align="center">🔹</td>
-<td>
-
-**Data Science Intern** &nbsp;·&nbsp; Remote &nbsp;·&nbsp; *Nov 2023 – Dec 2023*
-
-- Built ML models for text & image classification — **15% improvement** in prediction accuracy
-- EDA, feature engineering & preprocessing on **10,000+ record** datasets — **18% faster** processing
-
-</td>
-</tr>
-</table>
+- Built ML models for text & image classification → **15% improvement in prediction accuracy**
+- Conducted EDA, feature engineering, and preprocessing on **10,000+ record datasets** → **18% faster** processing
 
 ---
 
-## 📚 Research & Patents
+## 🚀 Featured Projects
+
+### 📄 [AskMe — PDF QA Web Application](https://github.com/ajcstanu)
+> Flask · LangChain · Python · MySQL · REST APIs &nbsp;|&nbsp; *Aug 2024 – Oct 2024*
+
+- Built an LLM-powered PDF Question-Answering system using Flask and LangChain
+- Implemented document ingestion, chunking, vector embeddings, and semantic search → **∼35% improvement in answer relevance**
+- Designed REST APIs for file upload, query handling, and response generation
+- SQL database integration for query history — tested with **100+ queries** without performance degradation
+
+---
+
+### 📊 [Sales Report Dashboard](https://github.com/ajcstanu)
+> Power BI · Power Query · Data Modeling &nbsp;|&nbsp; *May 2024 – Jul 2024*
+
+- Interactive Power BI dashboards analyzing **1,000+ sales records** to track KPIs and trends
+- Cleaned & modeled raw data with Power Query → **20% reduction in reporting effort**
+- Identified top-performing regions and seasonal patterns for data-driven decision-making
+
+---
+
+## 📚 Research & Patent
 
 | Type | Title | Status |
 |------|-------|--------|
-| 📄 IEEE Paper | Enhancing E-Bike Performance through Riding Mechanical Force | Published |
-| 💡 Patent | Modular Street Lighting System Using LoRaWAN | Under Examination |
+| 📄 **IEEE Paper** | Enhancing E-Bike Performance through Riding Mechanical Force | ✅ Published |
+| 💡 **Patent** | Modular Street Lighting System Using LoRaWAN | 🔄 Under Examination |
 
 ---
 
 ## 🏆 Achievements
 
+| | Achievement | Details |
+|---|---|---|
+| 🥇 | **Smart India Hackathon 2023** | National Finalist — 50,000+ participants |
+| ⭐ | **HackerRank** | 5-Star Rating in Python & C Programming |
+| 🎯 | **Coding Ninjas Contest** | All India Rank **917** |
+| 🎓 | **ACM Student Chapter** | Chairperson & Student Council Representative |
+| 🚁 | **National Drone Ranking 2022** | **6th Rank** |
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-| | Achievement | Result |
-|---|---|---|
-| 🥇 | Smart India Hackathon 2023 | **National Finalist** |
-| ⭐ | HackerRank Python & C | **5-Star Rating** |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ajcstanu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-
-## 📈 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -151,35 +176,17 @@ me.say_hi()
 
 </div>
 
-
 ---
 
-## 🐍 Contribution Snake
-
-> ℹ️ To enable the snake animation, create a GitHub Action in your repo — see setup instructions below.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajcstanu/ajcstanu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajcstanu/ajcstanu/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ajcstanu/ajcstanu/output/github-snake.svg" />
-</picture>
-
-</div>
-
-
----
-
-## 🌟 What I'm Working On
+## 🌟 Currently
 
 | | |
 |---|---|
-| 🔭 **Building** | AI-powered backend automation tools |
-| 🌱 **Learning** | Advanced ML pipelines & LLM integrations |
-| 💬 **Ask me about** | Python · LangChain · REST APIs · SQL · Data Analytics |
-| 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/tanishagupta-g) · [Email](mailto:tanishaguptacse@gmail.com) |
-| ⚡ **Fun fact** | I automate things so I have time to automate more things 😄 |
+| 🔭 **Building** | AI-powered backend automation tools at Movate |
+| 🌱 **Learning** | Advanced LLM pipelines · Vector databases · System design |
+| 💬 **Ask me about** | Python · LangChain · REST APIs · SQL · Data pipelines |
+| 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/tanishagupta-g) · [tanishaguptacse@gmail.com](mailto:tanishaguptacse@gmail.com) |
+| ⚡ **Fun fact** | I automate things so I have more time to automate more things 😄 |
 
 ---
 
@@ -187,10 +194,9 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Every messy dataset has a beautiful story waiting to be told."*
 
-<br/>
-
-⭐ **If you find my work helpful, consider starring my repos!** ⭐
+⭐ **If you find my work helpful, consider starring a repo!** ⭐
 
 </div>
+
