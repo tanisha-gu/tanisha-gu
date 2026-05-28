@@ -1,65 +1,57 @@
-<h1 align="center">Hi, I'm Tanisha 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Python Developer · AI & Data Analytics · Backend Automation · APIs · SQL</b>
-</p>
+# Hi, I'm Tanisha 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/tanishagupta-g">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Python Developer · AI & Data Analytics · Backend Automation**
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950&labelColor=0d1117&color=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff&labelColor=0d1117&color=0d1117)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff&labelColor=0d1117&color=0d1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=e3b341&labelColor=0d1117&color=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=3fb950&labelColor=0d1117&color=0d1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f778ba&labelColor=0d1117&color=0d1117)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=0d1117)
 
-## 🧠 About Me
-
-- 🎯 Python developer focused on **AI, data analytics, and backend automation**
-- 🔧 I build tools that automate workflows, analyze data, and expose smart APIs
-- 📊 Comfortable going from raw data → SQL → insights → production API
-- 🌱 Currently deepening skills in **machine learning** and **FastAPI**
-- 📍 Based in India
+</div>
 
 ---
-
-## 🛠️ Tech Stack
 
 ```python
+# about.py
+focus    = "raw data → SQL → insights → production API"
+learning = "machine learning + FastAPI"
+location = "India 🇮🇳"
+open_to  = "Python · data · AI collaborations"
+```
+
+```python
+# stack.py
 stack = {
-    "languages":   ["Python", "SQL"],
-    "backend":     ["FastAPI", "REST APIs", "Automation"],
-    "data":        ["Pandas", "NumPy", "Matplotlib", "Jupyter"],
-    "ml":          ["Scikit-learn", "Data Preprocessing"],
-    "databases":   ["PostgreSQL", "MySQL", "SQLite"],
-    "tools":       ["Git", "GitHub", "Selenium", "VS Code"]
+    "languages":  ["Python", "SQL"],
+    "backend":    ["FastAPI", "REST APIs", "Automation"],
+    "data":       ["Pandas", "NumPy", "Matplotlib", "Jupyter"],
+    "ml":         ["Scikit-learn", "Data Preprocessing"],
+    "databases":  ["PostgreSQL", "MySQL", "SQLite"],
+    "tools":      ["Git", "Selenium", "VS Code"]
 }
 ```
 
 ---
 
-## 📌 Featured Projects
+## 📦 projects/
 
-> *(Coming soon — currently building portfolio projects)*
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚧 Data Pipeline | End-to-end pipeline: ingest → clean → SQL → visualize | Python, Pandas, SQL |
-| 🚧 ML API | Trained model served via REST API with authentication | FastAPI, Scikit-learn |
-| 🚧 Backend Automation | Automated workflows with scheduling and logging | Python, Selenium |
+| repo | description | stack |
+|------|-------------|-------|
+| 🚧 `data-pipeline` | ingest → clean → SQL → visualize | Python, Pandas, SQL |
+| 🚧 `ml-api` | trained model via REST API + auth | FastAPI, Scikit-learn |
+| 🚧 `backend-automation` | automated workflows + scheduling | Python, Selenium |
 
 ---
 
+<div align="center">
 
+*→ reach me at [linkedin.com/in/tanishagupta-g](https://linkedin.com/in/tanishagupta-g)*
 
-## 🤝 Let's Connect
+![](https://komarev.com/ghpvc/?username=ajcstanu&color=3fb950&style=flat-square&label=profile+views)
 
-I'm open to collaborating on Python, data, or AI projects. Reach out on [LinkedIn](https://linkedin.com/in/tanishagupta-g).
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajcstanu&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+</div>
