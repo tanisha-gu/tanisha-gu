@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tanisha 👋
+# Hi, I'm Tanisha 
 
 **Python Developer · AI & Data Analytics · Backend Automation**
 
