@@ -35,18 +35,7 @@ stack = {
 }
 ```
 
----
 
-## Projects/
---------------------------------------------------------
-
-| repo | description | stack |
-|------|-------------|-------|
-| 🚧 `data-pipeline` | ingest → clean → SQL → visualize | Python, Pandas, SQL |
-| 🚧 `ml-api` | trained model via REST API + auth | FastAPI, Scikit-learn |
-| 🚧 `backend-automation` | automated workflows + scheduling | Python, Selenium |
-
----
 
 <div align="center">
 
