@@ -22,7 +22,7 @@ focus    = "raw data → SQL → insights → production API"
 learning = "machine learning + FastAPI"
 open_to  = "Python · data · AI collaborations"
 ```
-
+------------------------------------------------------------------------------------
 ```python
 # stack.py
 stack = {
