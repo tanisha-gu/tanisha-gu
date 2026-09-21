@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed&labelColor=0d1117&color=0d1117)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032&labelColor=0d1117&color=0d1117)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ff9900&labelColor=0d1117&color=0d1117)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=0d1117)
+
 
 </div>
 
