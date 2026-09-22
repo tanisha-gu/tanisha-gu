@@ -34,7 +34,7 @@ stack = {
     "data":       ["Pandas", "NumPy", "Matplotlib", "Jupyter"],
     "ml":         ["Scikit-learn", "Data Preprocessing"],
     "databases":  ["PostgreSQL", "MySQL", "SQLite"],
-    "tools":      ["Git", "Selenium", "VS Code"]
+    "tools":      ["Docker", "Git", "Selenium", "VS Code"]
 }
 ```
 
