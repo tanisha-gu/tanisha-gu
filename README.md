@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/tanishagupta-g">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -57,7 +57,7 @@ class Tanisha:
 ### 💻 Programming & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite" />
 </p>
 
 **Python · FastAPI · Flask · REST APIs · SQL · PostgreSQL · MySQL · SQLite**
@@ -65,7 +65,7 @@ class Tanisha:
 ### 📊 Data & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 **Pandas · NumPy · Matplotlib · Jupyter · Scikit-learn · Data Preprocessing · Exploratory Data Analysis**
@@ -73,7 +73,7 @@ class Tanisha:
 ### ⚙️ Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,selenium" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,selenium" />
 </p>
 
 **Git · GitHub · Docker · Linux · Selenium · VS Code · Automation**
@@ -119,7 +119,7 @@ class Tanisha:
 - Data preprocessing
 - SQL analysis
 - Exploratory Data Analysis
-- Visualization
+- Data visualization
 - Reporting
 
 </td>
@@ -145,7 +145,7 @@ class Tanisha:
 
 ### ⚡ FastAPI Backend Projects
 
-**Python · FastAPI · REST API · PostgreSQL**
+**Python · FastAPI · REST APIs · PostgreSQL**
 
 Building backend applications with:
 
@@ -173,7 +173,7 @@ Working with real-world datasets to:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=github_dark&hide_border=true" />
 
@@ -210,7 +210,6 @@ SQL & Database Design          ████████████████�
 Data Analytics                 █████████████████░░░  80%
 Machine Learning               █████████████░░░░░░░  66%
 Docker & Deployment            █████████████░░░░░░░  65%
-
 ```
 
 ---
@@ -249,11 +248,11 @@ Let's connect and build something useful together. 🚀
 <br>
 
 <a href="https://linkedin.com/in/tanishagupta-g">
-<img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/ajcstanu">
-<img src="https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
