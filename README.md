@@ -143,24 +143,6 @@ class Tanisha:
 
 ## 🚀 Featured Projects
 
-### 📡 OSS Network Data Validator
-
-**Python · XML · Pandas · SQL · Excel · Automation**
-
-A Python-based validation system designed to process and validate telecom OSS dump data.
-
-**Highlights**
-
-- XML dump parsing
-- Automated parameter validation
-- 2G & 4G validation logic
-- Alarm validation
-- Excel report generation
-- Data quality checks
-- Automated remarks & reporting
-
----
-
 ### ⚡ FastAPI Backend Projects
 
 **Python · FastAPI · REST API · PostgreSQL**
