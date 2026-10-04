@@ -169,33 +169,13 @@ Working with real-world datasets to:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha-gu&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha-gu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-gu&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tanisha-gu&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tanisha-gu/tanisha-gu/output/github-contribution-grid-snake.svg" />
+<img height="180em" src="https://streak-stats.demolab.com?user=tanisha-gu&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
