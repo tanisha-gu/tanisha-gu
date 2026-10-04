@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ajcstanu&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=tanisha-gu&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -173,9 +173,9 @@ Working with real-world datasets to:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajcstanu&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha-gu&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcstanu&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha-gu&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -185,7 +185,7 @@ Working with real-world datasets to:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ajcstanu&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tanisha-gu&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -195,7 +195,7 @@ Working with real-world datasets to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ajcstanu/ajcstanu/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/tanisha-gu/tanisha-gu/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -251,8 +251,8 @@ Let's connect and build something useful together. 🚀
   <img src="https://img.shields.io/badge/LinkedIn-Tanisha%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/ajcstanu">
-  <img src="https://img.shields.io/badge/GitHub-ajcstanu-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/tanisha-gu">
+  <img src="https://img.shields.io/badge/GitHub-tanisha--gu-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
