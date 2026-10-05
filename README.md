@@ -241,7 +241,7 @@ Let's connect and build something useful together. 🚀
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ***** Thanks for visiting my profile!  *******
 
 **Keep Learning · Keep Building · Keep Growing 🚀**
 
