@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Python Developer** focused on building practical software solutions using Python, APIs, databases, automation, and data.
 
