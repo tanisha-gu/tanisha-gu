@@ -141,7 +141,7 @@ class Tanisha:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### ⚡ FastAPI Backend Projects
 
@@ -159,7 +159,7 @@ Building backend applications with:
 
 ---
 
-### 📊 Data Analytics Projects
+###  Data Analytics Projects
 
 **Python · Pandas · NumPy · Matplotlib · SQL**
 
@@ -207,7 +207,7 @@ Docker & Deployment            █████████████░░░�
 
 ---
 
-## 💡 My Development Philosophy
+##  My Development Philosophy
 
 > **"Write code that solves real problems, not just code that works."**
 
