@@ -47,7 +47,7 @@ class Tanisha:
         "Cloud & Docker"
     ]
 
-    goal = "Build scalable, production-ready Python applications 🚀"
+    goal = "Build scalable, production-ready Python applications "
 ```
 
 ---
@@ -217,7 +217,7 @@ I believe in:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
