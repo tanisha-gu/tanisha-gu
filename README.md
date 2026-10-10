@@ -52,7 +52,7 @@ class Tanisha:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Programming & Backend
 
