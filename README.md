@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tanisha-gu&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS" />
+
 
 </div>
 
