@@ -140,7 +140,7 @@ class Tanisha:
 
 ## Featured Projects
 
-### ⚡ FastAPI Backend Projects
+### FastAPI Backend Projects
 
 **Python · FastAPI · REST APIs · PostgreSQL**
 
