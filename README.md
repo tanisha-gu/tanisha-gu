@@ -193,14 +193,14 @@ Docker & Deployment            █████████████░░░�
 
 ## 🎯 2026 Goals
 
-- 🚀 Build production-ready Python applications
-- ⚡ Become stronger in backend engineering
-- 🤖 Build practical AI/ML projects
-- 🗄️ Improve SQL & database design
-- ☁️ Learn cloud deployment
-- 🐳 Master Docker & containerization
-- 💼 Join a strong software engineering team
-- 🌱 Contribute to open-source projects
+-  Build production-ready Python applications
+-  Become stronger in backend engineering
+-  Build practical AI/ML projects
+-  Improve SQL & database design
+-  Learn cloud deployment
+-  Master Docker & containerization
+-  Join a strong software engineering team
+-  Contribute to open-source projects
 
 ---
 
