@@ -166,7 +166,7 @@ Working with real-world datasets to:
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -191,7 +191,7 @@ Docker & Deployment            █████████████░░░�
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
 -  Build production-ready Python applications
 -  Become stronger in backend engineering
@@ -220,7 +220,7 @@ I believe in:
 
 ### 💬 Interested in Python, AI, Data or Backend Development?
 
-Let's connect and build something useful together. 🚀
+Let's connect and build something useful together. 
 
 <br>
 
