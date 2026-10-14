@@ -77,7 +77,7 @@ class Tanisha:
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
 <table>
 <tr>
