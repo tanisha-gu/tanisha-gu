@@ -240,6 +240,6 @@ Let's connect and build something useful together. 🚀
 
 ### ***** Thanks for visiting my profile!  ******
 
-**Keep Learning · Keep Building · Keep Growing 🚀**
+**Keep Learning · Keep Building · Keep Growing **
 
 </div>
