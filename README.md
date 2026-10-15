@@ -218,7 +218,7 @@ I believe in:
 
 <div align="center">
 
-### 💬 Interested in Python, AI, Data or Backend Development?
+###  Interested in Python, AI, Data or Backend Development?
 
 Let's connect and build something useful together. 
 
