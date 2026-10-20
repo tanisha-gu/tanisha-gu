@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanisha Gupta
+#  Hi, I'm Tanisha Gupta
 
 ### 🐍 Python Developer · 🤖 AI & Data · ⚡ Backend Automation
 
@@ -178,7 +178,7 @@ Working with real-world datasets to:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```text
 Python Advanced Concepts       ████████████████████  90%
