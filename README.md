@@ -51,7 +51,7 @@ class Tanisha:
 
 ##  Tech Stack
 
-### 💻 Programming & Backend
+###  Programming & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite" />
@@ -59,7 +59,7 @@ class Tanisha:
 
 **Python · FastAPI · Flask · REST APIs · SQL · PostgreSQL · MySQL · SQLite**
 
-### 📊 Data & Machine Learning
+###  Data & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -67,7 +67,7 @@ class Tanisha:
 
 **Pandas · NumPy · Matplotlib · Jupyter · Scikit-learn · Data Preprocessing · Exploratory Data Analysis**
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,selenium" />
@@ -83,7 +83,7 @@ class Tanisha:
 <tr>
 <td width="50%">
 
-### 🐍 Python Development
+###  Python Development
 
 - Clean & reusable Python code
 - OOP & modular architecture
