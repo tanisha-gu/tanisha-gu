@@ -2,7 +2,7 @@
 
 #  Hi, I'm Tanisha Gupta
 
-### 🐍 Python Developer · 🤖 AI & Data · ⚡ Backend Automation
+###  Python Developer ·  AI & Data ·  Backend Automation
 
 <p>
   <a href="https://linkedin.com/in/tanishagupta-g">
@@ -95,7 +95,7 @@ class Tanisha:
 
 <td width="50%">
 
-### ⚡ Backend Development
+###  Backend Development
 
 - REST APIs
 - FastAPI
@@ -110,7 +110,7 @@ class Tanisha:
 <tr>
 <td>
 
-### 📊 Data Analytics
+###  Data Analytics
 
 - Data cleaning
 - Data preprocessing
@@ -123,7 +123,7 @@ class Tanisha:
 
 <td>
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 - Feature engineering
 - Data preprocessing
